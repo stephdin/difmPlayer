@@ -8,5 +8,6 @@ or
 
 put everything in the "app folder" of an electron.js installation and run electron.js
 
+![](https://raw.githubusercontent.com/stephdin/difmPlayer/master/img/screen.png)
 
 This project is just a proof-of-concept. Use it on your own risk. 
